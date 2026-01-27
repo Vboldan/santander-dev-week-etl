@@ -1,0 +1,83 @@
+Para publicar o seu e-book no **GitHub**, a melhor forma é formatá-lo em um arquivo **Markdown** (`README.md`). Este formato permite que o texto seja exibido com títulos, listas e negritos diretamente na página do seu repositório.
+
+Abaixo, preparei a estrutura completa do seu e-book, já integrando o conteúdo original das fontes com as atualizações da **CPI do Transporte** e as iniciativas em andamento (como a **Tarifa Zero** e os **pneus inteligentes**) discutidas anteriormente.
+
+---
+
+# Mobilidade Urbana em Crise: Análise e Soluções para o Transporte Público de Campo Grande (MS)
+
+**Por:** Valdeci Boldan Bezerra
+
+---
+
+## Introdução
+O transporte público é essencial para conectar pessoas e impulsionar o desenvolvimento social e econômico. Este trabalho analisa a realidade de Campo Grande (MS) à luz da **Meta 11.2 dos Objetivos de Desenvolvimento Sustentável (ODS)** da ONU, que busca sistemas de transporte seguros, acessíveis e sustentáveis.
+
+## Capítulo 1: O Cenário Crítico do Transporte Público em Campo Grande (MS)
+
+### 1.1 Ineficiência e o Desafio do Tempo de Deslocamento
+Muitos cidadãos perdem de **2 a 3 horas diárias** apenas no trajeto entre casa e trabalho, impactando drasticamente a qualidade de vida e o convívio familiar.
+
+### 1.2 Superlotação: Um Problema Cotidiano
+A superlotação, especialmente nos horários de pico, degrada a experiência do usuário e demonstra a incapacidade do sistema atual em atender à demanda de forma adequada.
+
+### 1.3 A Alarmante Queda no Número de Passageiros
+Entre 2008 e 2022, houve uma queda de **50% no número de passageiros** diários (de 229.510 para 111.000), indicando uma forte insatisfação com a gestão do Consórcio Guaicurus.
+
+### 1.4 A Insustentabilidade do Modelo Tarifário Atual
+O modelo baseado apenas na tarifa gera um ciclo vicioso: o aumento do preço afasta passageiros, e a redução da frota para cortar custos agrava a superlotação.
+
+### 1.5 A Falta de Fiscalização: Um Contrato Milionário às Escuras (Atualizado)
+A **CPI do Transporte** revelou que, em mais de 12 anos de um contrato que movimenta cerca de **R$ 200 milhões anuais** e possui isenção fiscal de **R$ 10 milhões**, a Prefeitura realizou apenas **uma auditoria**. A fiscalização dependia quase exclusivamente de dados fornecidos pela própria concessionária.
+
+### 1.6 O Distanciamento da Meta 11.2 dos ODS
+O sistema atual falha em ser inclusivo e acessível para grupos vulneráveis, distanciando a cidade das metas globais de sustentabilidade da Agenda 2030.
+
+---
+
+## Capítulo 2: Soluções para um Transporte Público Eficiente e Sustentável
+
+### 2.1 A Urgência da Revisão Tarifária e a "Tarifa Zero" (Atualizado)
+É fundamental buscar subsídios governamentais e fontes de financiamento alternativas. Já foi instituída na Câmara Municipal a **Frente Parlamentar em Defesa da Tarifa Zero** para analisar a viabilidade econômica desta proposta.
+
+### 2.2 Investimento Estratégico na Frota: Expansão e Modernização
+É necessário investir em ônibus modernos, com acessibilidade universal (elevadores) e tecnologias de baixa emissão, como veículos elétricos.
+
+### 2.3 Otimização Inteligente e Tecnologias (Atualizado)
+O uso de geolocalização e aplicativos de monitoramento em tempo real é essencial. Atualmente, o Consórcio Guaicurus já utiliza **"pneus inteligentes"** com sensores de pressão e temperatura para aumentar a segurança e eficiência operacional.
+
+### 2.4 Corredores Exclusivos e Prioridade Semafórica
+Implementar faixas exclusivas aumenta a velocidade média dos ônibus, reduzindo o tempo de viagem e tornando o transporte público mais competitivo.
+
+### 2.5 Fortalecimento da Fiscalização e Transparência (Atualizado)
+O poder público deve realizar **auditorias regulares e independentes**. É urgente a divulgação pública de dados operacionais e financeiros, garantindo a responsabilização da concessionária.
+
+### 2.6 Acessibilidade Universal e Intermodalidade
+Garantir calçadas adequadas, informações em Braille e áudio, além de integrar os ônibus a outros modais, como bicicletas (bicicletários em terminais).
+
+### 2.7 Educação e Conscientização
+Campanhas sobre os benefícios do transporte público para a redução de congestionamentos e equidade social são essenciais para fortalecer o apoio popular a novas políticas.
+
+---
+
+## Conclusão
+A transformação do sistema em Campo Grande é um desafio complexo, mas absolutamente necessário. Através de planejamento estratégico, transparência e investimento em infraestrutura, é possível alcançar um futuro com mobilidade urbana de qualidade, alinhado à Meta 11.2 dos ODS.
+
+---
+
+## Referências
+*   Câmara Municipal de Campo Grande - Frente Parlamentar Tarifa Zero.
+*   CPI do Transporte - Relatórios de Fiscalização.
+*   Continental - Uso de pneus inteligentes no Consórcio Guaicurus.
+*   Estudos de Mobilidade Urbana - Prof. Daniel Santini (USP) e CNM.
+
+## Sobre o Autor
+**Valdeci Boldan Bezerra**
+Acadêmico em Análise e Desenvolvimento de Sistemas – UNIDOMBOSCO.
+
+---
+
+### Dicas para o seu GitHub:
+1.  **Imagens:** Se você quiser incluir a charge presente na fonte, salve a imagem na pasta do seu repositório e use o código `![Legenda](caminho-da-imagem.jpg)`.
+2.  **Licença:** Considere adicionar um arquivo chamado `LICENSE` (ex: MIT ou Creative Commons) para definir como as pessoas podem usar seu texto.
+3.  **Tags:** No seu repositório, use tags como `#MobilidadeUrbana`, `#CampoGrande` e `#ODS11`.
